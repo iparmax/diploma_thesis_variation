@@ -10,9 +10,9 @@ For more information you can read the relevant paper on the following link :
 https://www.nrso.ntua.gr/geyannis/el/pub/parmaksizoglou-i-tselentis-d-yannis-g-spatial-analysis-of-driver-safety-behaviour-using-data-from-smartphones-proceedings-of-the-8th-transport-research-arena-tra-2020-conferen/
 
 ### Results
+A typical example of the model's performance is presented
 
-
-![Alt Text](https://github.com/iparmax/diploma_thesis_variation/results.png)
+![Alt Text](https://github.com/iparmax/diploma_thesis_variation/blob/master/result.png)
 
 ## Authors
 
